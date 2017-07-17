@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (RongIM.getInstance()!=null){
                     RongIM.getInstance().startPrivateChat(MainActivity.this,"luoxue","dsssss");
+                    //怎么圣诞卡蝇
 
                 }
             }
