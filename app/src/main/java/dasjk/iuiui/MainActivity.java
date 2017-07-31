@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 if (RongIM.getInstance()!=null){
                     RongIM.getInstance().startPrivateChat(MainActivity.this,"luoxue","dsssss");
                     //怎么圣诞卡蝇苛苛花样百出
+                    //多加了一行提示
 
                 }
             }
