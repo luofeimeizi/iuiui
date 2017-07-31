@@ -1,4 +1,4 @@
-package dasjk.iuiui;
+﻿package dasjk.iuiui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
                     RongIM.getInstance().startPrivateChat(MainActivity.this,"luoxue","dsssss");
                     //怎么圣诞卡蝇苛苛花样百出
                     //多加了一行提示
+  //多加了一行提示
 
                 }
             }
